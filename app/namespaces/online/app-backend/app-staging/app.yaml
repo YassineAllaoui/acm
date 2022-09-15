@@ -1,0 +1,6 @@
+kind: app
+apiVersion: arkea.com/v1
+metadata:
+  name: staging
+spec:
+  address: "Lichou"
