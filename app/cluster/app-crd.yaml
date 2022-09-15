@@ -36,6 +36,6 @@ spec:
                   type: string
   scope: Namespaced
   names:
-    plural: dev
-    singular: dev
-    kind: Dev
+    plural: app
+    singular: app
+    kind: App
